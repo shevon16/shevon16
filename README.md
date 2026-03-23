@@ -50,7 +50,7 @@ I love building things that actually work — from Python desktop apps and CLI t
 | Project | Description | Tech |
 |--------|-------------|------|
 | [🌬️ WynTrix](https://github.com/shevon16/wyntrix) | Wind farm management & energy optimization app for Sri Lanka | Research, System Design |
-| [✅ Personal Task Manager](https://github.com/shevon16/task-manager) | Desktop task manager with GUI, filtering, and JSON persistence | Python, Tkinter |
+| [✅ Personal Task Manager]([https://github.com/shevon16/task-manager](https://github.com/shevon16/Personal-task-manager-Python-)) | Desktop task manager with GUI, filtering, and JSON persistence | Python, Tkinter |
 | [🏦 ABC Bank System](https://github.com/shevon16/abc-bank-system) | Console-based banking management system with full CRUD | Python |
 | [🧮 MathBro](https://github.com/shevon16/mathbro) | CLI math quiz game with difficulty modes and session saving | Python |
 
