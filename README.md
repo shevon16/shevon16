@@ -90,13 +90,13 @@ class ShevonTharaka:
 <div align="center">
 
 <a href="https://github.com/shevon16/Good-Health-Wellbeing-UN-Goal-3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shevon16&repo=wyntrix&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shevon16&repo=Good-Health-Wellbeing-UN-Goal-3&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/shevon16/Personal-task-manager-Python-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shevon16&repo=task-manager&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shevon16&repo=Personal-task-manager-Python-&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/shevon16/Bank-Management-System-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shevon16&repo=abc-bank-system&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shevon16&repo=Bank-Management-System-&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/shevon16/mathbro">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=shevon16&repo=mathbro&theme=tokyonight&hide_border=true" />
