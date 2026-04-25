@@ -108,9 +108,9 @@ class ShevonTharaka:
 
 | 🏷️ Project | 💡 Description | 🔧 Stack | ⭐ Highlight |
 |------------|----------------|----------|-------------|
-| [🌬️ WynTrix]([https://github.com/shevon16/wyntrix](https://github.com/shevon16/Good-Health-Wellbeing-UN-Goal-3)) | Wind farm management & energy optimization app for Sri Lanka | Research · System Design · Mobile | 15 features · 7 competitor analysis |
+| [🌬️ WynTrix](https://github.com/shevon16/Good-Health-Wellbeing-UN-Goal-3) | Wind farm management & energy optimization app for Sri Lanka | Research · System Design · Mobile | 15 features · 7 competitor analysis |
 | [✅ Task Manager](https://github.com/shevon16/task-manager) | Desktop task manager with GUI, filtering & JSON persistence | Python · Tkinter · OOP | Full CRUD · Sortable table |
-| [🏦 ABC Bank]([https://github.com/shevon16/abc-bank-system](https://github.com/shevon16/Bank-Management-System-)) | Console banking system with full account management | Python · CLI | Input validation · 6 operations |
+| [🏦 ABC Bank](https://github.com/shevon16/Bank-Management-System-) | Console banking system with full account management | Python · CLI | Input validation · 6 operations |
 | [🧮 MathBro](https://github.com/shevon16/mathbro) | CLI math quiz with difficulty modes & session saving | Python · Modular design | 3 difficulty levels · File I/O |
 
 ---
