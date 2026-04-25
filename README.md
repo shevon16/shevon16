@@ -89,13 +89,13 @@ class ShevonTharaka:
 
 <div align="center">
 
-<a href="https://github.com/shevon16/wyntrix">
+<a href="https://github.com/shevon16/Good-Health-Wellbeing-UN-Goal-3">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=shevon16&repo=wyntrix&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/shevon16/task-manager">
+<a href="https://github.com/shevon16/Personal-task-manager-Python-">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=shevon16&repo=task-manager&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/shevon16/abc-bank-system">
+<a href="https://github.com/shevon16/Bank-Management-System-">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=shevon16&repo=abc-bank-system&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/shevon16/mathbro">
